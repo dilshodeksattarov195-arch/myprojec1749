@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderealculate",
+        "uuid": 16057569,
+        "checksum": "qhhhui"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
